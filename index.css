@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+body {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.top {
+    width: 1000px;
+    height: 100%;
+    
+}
+
+.top-like {
+    
+    width: 1000px;
+    margin: 30px;
+    
+    
+}
+.top .top-like li {
+        display: inline-block;
+        margin-right: 20px;    
+        margin-top: 10px;
+}
+
+.top .top-like li a {
+      text-decoration: none;
+      color: black;
+      font-size: 25px;
+      
+      
+}
+
+#logo {
+    float: left;
+}
+.top .top-sub {
+    width: 650px;
+    margin-left: 10px;
+    
+}
+.top .top-sub p{
+    font-size: 18px;
+    line-height: 2;
+    color: black;
+    
+}
+.top .top-sub h3 {
+    font-size: 25px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid gray;
+    color: black;
+}
+.top .top-share {
+         
+         margin-left: 0 30px;
+         width: 250px;
+         float: right;
+         
+}
+.top .top-share img {
+       width: 150%;
+       border: 2px solid red;
+       width: 350px;
+       margin-left: 90px;
+        
+}
+.top .top-share h3 {
+     margin-left: 90px;
+     background-color: red;
+     text-align: center;
+     width: 360px;
+     height: 30px;
+     padding-top: 10px;
+     font-size: 25px;
+     
+}
+.top .top-share h4 {
+    margin-left: 90px;
+     background-color: red;
+     text-align: center;
+     width: 355px;
+     height: 15px;
+     padding-top: 10px;
+     font-size: 25px;
+}
+.top .top-share p {
+    font-size: 20px;
+    margin-left: 0px;
+    padding-top: 20px;
+    
+    border: 1px solid red;
+    height: 25px;
+}
